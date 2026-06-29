@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/charli-dev420/presentation-projet-music">
-    <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/daw-core-android-beta-volunteers.jpg" width="860" alt="DAWWW Core Android closed beta volunteers wanted">
+    <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/dev-projects-overview-daww-android-testers-en.png" width="860" alt="English DAWWW Core Android closed beta testers banner">
   </a>
 </p>
 
