@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-music/main/assets/brand/daw-core-banner.png" width="860" alt="DAWWW Core banner">
+  <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/daw-core-clean.jpg" width="860" alt="DAW Core project banner">
 </p>
 
 <h1 align="center">charli-dev420 / DAWWW Core</h1>
@@ -35,7 +35,7 @@ I build creative software with a practical bias: tools should save real work, re
 
 <p>
   <a href="https://github.com/charli-dev420/presentation-projet-music">
-    <img align="left" src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/audition-presets.jpg" width="310" alt="Audition Presets banner">
+    <img align="left" src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/daw-core-clean.jpg" width="310" alt="DAW Core project banner">
   </a>
   <strong>DAW Core / Unicor SoundEngine</strong><br>
   This is the core of the profile. DAW Core is about composing, saving, reopening, moving a project between desktop and Android, and keeping the audio path testable. Around it, Unicor SoundEngine groups synths, effects, audition material, preset work, VST distribution, and the documentation needed for a user or collaborator to understand the product direction without guessing.
@@ -99,7 +99,7 @@ Je construis des outils creatifs avec une logique assez simple: un projet doit p
 
 <p>
   <a href="https://github.com/charli-dev420/presentation-projet-music">
-    <img align="left" src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/audition-presets.jpg" width="310" alt="Banniere Audition Presets">
+    <img align="left" src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/daw-core-clean.jpg" width="310" alt="Banniere DAW Core">
   </a>
   <strong>DAW Core / Unicor SoundEngine</strong><br>
   C'est le centre du profil. DAW Core porte la partie workstation: composer, sauvegarder, rouvrir, transporter un projet et garder un chemin audio verifiable. Unicor SoundEngine regroupe autour les synthés, les effets, l'audition, les presets, le site VST et la documentation produit. L'objectif est de montrer un vrai produit audio, pas une simple collection de repos.
