@@ -85,3 +85,5 @@ I am looking for:
 <p align="center">
   <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-music/main/assets/brand/daw-core-watermark-opacity20.png" width="110" alt="DAWWW Core watermark">
 </p>
+
+<!-- profile-readme-refresh: 2026-06-29 -->
