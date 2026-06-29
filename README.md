@@ -76,7 +76,7 @@ I build creative software with a practical bias: tools should save real work, re
 
 **3 public documentation hubs:** music, 3D/Unity, and agentic tooling. Each hub is written for people who need to understand the projects quickly: collaborators, buyers, technical partners, recruiters, and anyone evaluating whether the work can become a serious product, mission, or role.
 
-I am especially interested in conversations where there is a real product angle: audio software, Unity/mobile asset workflows, agentic tooling with QA and evidence, creative tooling missions, or a position where product sense and implementation both matter.
+The most natural starting points are audio software, Unity/mobile asset workflows, agentic tooling, creative tooling missions, funding, partnerships, and roles around product plus implementation. If an idea sits near these areas, a first exchange is welcome.
 
 ### Project Focus
 
@@ -139,15 +139,15 @@ I am especially interested in conversations where there is a real product angle:
 
 ### What I am looking for
 
-I am looking for concrete conversations: a product to build, a workflow to evaluate, a mission with a clear technical problem, or a role where creative tools and engineering judgment meet.
+I am open to conversations at different stages: beta testing, product feedback, prototype design, technical partnership, mission, funding, job opportunity, or simply a first exchange around creative tools.
 
-Audio is the strongest fit: DAW Core, Unicor SoundEngine, synths, effects, presets, user flows, release readiness, and VST distribution. I am interested in partners who want to turn this into a stronger product, not just look at a demo.
+DAW Core is the main priority, so audio conversations are especially welcome: DAW workflows, mobile music making, plugins, effects, presets, release/distribution, UX, QA, or testing the Android closed beta.
 
-Unity and 3D are a good fit when the problem is asset flow: generated assets, dataset review, mobile constraints, Unity handoff, QA, and documentation that helps non-authors understand the result.
+I am also interested in Unity/3D opportunities around asset review, generated assets, dataset evaluation, mobile constraints, Unity handoff, QA, documentation, demos, or tooling that makes visual production easier to understand.
 
-Agentic tooling is a good fit when the work needs structure: MCP, Apps SDK, orchestration, local automation, evidence, verification, QA, and human-in-the-loop decisions.
+Agentic tooling is another useful angle: MCP, Apps SDK, orchestration, local automation, evidence, verification, QA, and workflows where AI helps a team without hiding the decisions.
 
-For missions or roles, the best match is a team that needs someone who can move between product thinking, code, documentation, QA, and visual proof without losing the user workflow.
+If the connection is not obvious but the project touches creative software, product strategy, music, mobile, Unity, AI workflows, developer experience, or user-facing tools, it is still worth reaching out.
 
 ---
 
@@ -167,7 +167,7 @@ Je construis des outils creatifs avec une logique assez simple: un projet doit p
 
 **3 vitrines documentees :** musique, 3D/Unity et agentic. Elles sont faites pour les personnes qui doivent comprendre vite: collaborateurs, acheteurs, partenaires techniques, recruteurs, ou quelqu'un qui veut evaluer si le travail peut devenir un vrai produit, une mission ou un poste.
 
-Je cherche surtout des discussions avec un angle concret: produit audio, pipeline Unity/mobile, outil agentique avec QA et preuves, mission creative tooling, financement, partenariat ou poste ou la vision produit compte autant que l'implementation.
+Les portes d'entrée naturelles sont le produit audio, les pipelines Unity/mobile, les outils agentiques, les missions creative tooling, le financement, les partenariats et les postes qui melangent produit et implementation. Si une idee est proche de ces sujets, un premier echange est bienvenu.
 
 ### Lecture des projets
 
@@ -230,15 +230,15 @@ Je cherche surtout des discussions avec un angle concret: produit audio, pipelin
 
 ### Ce que je recherche
 
-Je cherche des discussions concretes: un produit a construire, un workflow a evaluer, une mission avec un vrai probleme technique, ou un poste ou les outils creatifs et le jugement engineering se rejoignent.
+Je suis ouvert a plusieurs formes d'echange: test beta, retour produit, prototype, partenariat technique, mission, financement, poste, conseil ou simple premier contact autour d'un outil creatif.
 
-L'audio est le meilleur point d'entree: DAW Core, Unicor SoundEngine, synthés, effets, presets, flows utilisateur, readiness release et distribution VST. Je cherche des partenaires qui veulent renforcer un produit, pas seulement regarder une demo.
+DAW Core reste la priorite, donc les sujets audio sont tres bienvenus: workflows DAW, musique mobile, plugins, effets, presets, distribution, UX, QA ou test de la beta Android.
 
-Unity et la 3D ont du sens quand le probleme est un pipeline d'assets: generation, revue dataset, contraintes mobile, handoff Unity, QA et documentation pour rendre le resultat comprehensible par d'autres.
+Je suis aussi interesse par les opportunites Unity/3D autour de la revue d'assets, generation, evaluation dataset, contraintes mobile, handoff Unity, QA, documentation, demos ou tooling qui rend la production visuelle plus comprehensible.
 
-L'agentic m'interesse quand le travail demande de la structure: MCP, Apps SDK, orchestration, automatisation locale, preuves, verification, QA et decisions humaines.
+L'agentic est un autre angle utile: MCP, Apps SDK, orchestration, automatisation locale, preuves, verification, QA et workflows ou l'IA aide une equipe sans masquer les decisions.
 
-Pour une mission ou un poste, le meilleur contexte est une equipe qui a besoin de quelqu'un capable de passer entre vision produit, code, documentation, QA et preuves visuelles sans perdre le workflow utilisateur.
+Et meme si le lien n'est pas evident au premier regard, si le projet touche aux outils creatifs, au produit, a la musique, au mobile, a Unity, aux workflows IA, a la developer experience ou a des outils utilisateurs, cela vaut quand meme le coup d'en parler.
 
 ---
 
