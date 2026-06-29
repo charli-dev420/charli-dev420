@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-music/main/assets/brand/daw-core-banner.png" width="820" alt="DAWWW Core banner">
+  <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/save-my-lord.jpg" width="820" alt="Save My Lord project banner">
 </p>
 
 <h1 align="center">charli-dev420 / DAWWW Core</h1>
@@ -39,7 +39,7 @@ I care about products that can be read, tested, discussed, improved, and eventua
 
 <p align="center">
   <a href="https://github.com/charli-dev420/presentation-projet-music">
-    <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-music/main/assets/proof-dashboard.svg" width="520" alt="DAW Core proof dashboard">
+    <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/audition-presets.jpg" width="620" alt="Audition Presets project banner">
   </a>
 </p>
 
@@ -51,7 +51,7 @@ DAW Core is the main project: a local-first music workstation with portable `.dw
 
 <p align="center">
   <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">
-    <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-3d-unity/main/assets/one-pager.svg" width="520" alt="3D Unity pipeline one-pager">
+    <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/save-my-lord.jpg" width="620" alt="Save My Lord project banner">
   </a>
 </p>
 
@@ -63,13 +63,33 @@ This track connects dataset review, 2.5D baking, AI asset preparation, Unity han
 
 <p align="center">
   <a href="https://github.com/charli-dev420/presentation-projet-agentic">
-    <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-agentic/main/assets/one-pager.svg" width="520" alt="Agentic orchestration one-pager">
+    <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/codex-model-orchestrator.jpg" width="620" alt="Codex Model Orchestrator project banner">
   </a>
 </p>
 
 The agentic work is about control, not magic: multi-agent coordination, MCP/App SDK surfaces, evidence ledgers, QA gates, and Unity/ComfyUI workflows that keep human decisions visible. I am interested in agents that leave a trail someone can evaluate, correct, and trust.
 
 [Showcase](https://github.com/charli-dev420/presentation-projet-agentic) · [Evidence ledger](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/evidence-ledger.md) · [QA matrix](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/qa-matrix.md) · [Visual gallery](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/visual-gallery.md)
+
+### Personal Project Banners
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/agentunit.jpg" width="620" alt="AgentUnit project banner">
+</p>
+
+**AgentUnit** is the more conversational side of the agentic work: interfaces and flows where the user should understand what the agent is doing, what it has seen, and why the next action makes sense.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/mimorvoices.jpg" width="620" alt="Mimorvoices project banner">
+</p>
+
+**Mimorvoices** sits closer to voice and creative audio. It is part of the same interest in tools that turn raw generation into something directed, reviewable, and usable.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charli-dev420/charli-dev420/main/assets/banners/backstarter.jpg" width="620" alt="Backstarter project banner">
+</p>
+
+**Backstarter** is about bootstrapping product work: taking a rough idea, generating enough structure to start, and keeping the result editable instead of turning it into a black box.
 
 ### What I am looking for
 
@@ -103,6 +123,10 @@ Je cherche a construire des projets qui se comprennent vite mais ne restent pas 
 **Agentic** couvre l'orchestration multi-agents, MCP, Apps SDK, les registres de preuve, la QA et les workflows Unity/ComfyUI. Je veux des agents qui produisent quelque chose de suivable: une action, une preuve, une limite claire, puis une decision humaine.
 
 [Vitrine](https://github.com/charli-dev420/presentation-projet-agentic) · [Evidence ledger](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/evidence-ledger.md) · [QA matrix](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/qa-matrix.md)
+
+### Projets personnels
+
+Les bannières donnent une lecture plus directe de l'univers: **Save My Lord** pour le cote monde interactif et direction artistique, **Audition Presets** pour la partie audio et evaluation, **Codex Model Orchestrator** pour le pilotage agentique, puis **AgentUnit**, **Mimorvoices** et **Backstarter** comme pistes plus personnelles autour des agents, de la voix et du demarrage produit.
 
 ### Ce que je recherche
 
