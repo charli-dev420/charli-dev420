@@ -35,64 +35,41 @@ I care about products that can be read, tested, discussed, improved, and eventua
 
 ### Project Map
 
-<table id="project-map">
-  <tr>
-    <th width="26%">Project</th>
-    <th width="30%">Visual</th>
-    <th>Start here</th>
-  </tr>
-  <tr>
-    <td>
-      <strong>DAW Core / Unicor SoundEngine</strong><br>
-      Main project. A local-first music workstation with portable <code>.dw</code> projects, desktop/Android validation, synths, effects, and distribution material.
-    </td>
-    <td>
-      <a href="https://github.com/charli-dev420/presentation-projet-music">
-        <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-music/main/assets/proof-dashboard.svg" width="260" alt="DAW Core proof dashboard">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/charli-dev420/presentation-projet-music">Showcase</a><br>
-      <a href="https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/one-pager.md">One-pager</a> ·
-      <a href="https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/release-readiness.md">Release readiness</a> ·
-      <a href="https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/vst-distribution.md">VST distribution</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>3D / Unity Asset Pipeline</strong><br>
-      Dataset review, 2.5D baking, AI asset preparation, Unity handoff, CodexToUnity, Mob'ia / ccomf-unity, and LocalAssetFactory.
-    </td>
-    <td>
-      <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">
-        <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-3d-unity/main/assets/one-pager.svg" width="260" alt="3D Unity pipeline one-pager">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">Showcase</a><br>
-      <a href="https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/source-facts.md">Source facts</a> ·
-      <a href="https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/demo-scenarios.md">Demo scenarios</a> ·
-      <a href="https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/visual-index.md">Visual index</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Agentic Orchestration</strong><br>
-      Multi-agent coordination, MCP/App SDK surfaces, evidence ledgers, QA gates, and Unity/ComfyUI workflows that keep human decisions visible.
-    </td>
-    <td>
-      <a href="https://github.com/charli-dev420/presentation-projet-agentic">
-        <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-agentic/main/assets/one-pager.svg" width="260" alt="Agentic orchestration one-pager">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/charli-dev420/presentation-projet-agentic">Showcase</a><br>
-      <a href="https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/evidence-ledger.md">Evidence ledger</a> ·
-      <a href="https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/qa-matrix.md">QA matrix</a> ·
-      <a href="https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/visual-gallery.md">Visual gallery</a>
-    </td>
-  </tr>
-</table>
+#### DAW Core / Unicor SoundEngine
+
+<p align="center">
+  <a href="https://github.com/charli-dev420/presentation-projet-music">
+    <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-music/main/assets/proof-dashboard.svg" width="520" alt="DAW Core proof dashboard">
+  </a>
+</p>
+
+DAW Core is the main project: a local-first music workstation with portable `.dw` projects, desktop/Android validation, synths, effects, and distribution material. It is where the product direction is the clearest: make music, keep the project portable, prove the audio path, then make the ecosystem understandable enough for musicians, collaborators, and buyers.
+
+[Showcase](https://github.com/charli-dev420/presentation-projet-music) · [One-pager](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/one-pager.md) · [Release readiness](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/release-readiness.md) · [VST distribution](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/vst-distribution.md)
+
+#### 3D / Unity Asset Pipeline
+
+<p align="center">
+  <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">
+    <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-3d-unity/main/assets/one-pager.svg" width="520" alt="3D Unity pipeline one-pager">
+  </a>
+</p>
+
+This track connects dataset review, 2.5D baking, AI asset preparation, Unity handoff, CodexToUnity, Mob'ia / ccomf-unity, and LocalAssetFactory. The goal is practical: help an asset become inspectable, documented, and usable in a Unity context instead of stopping at a nice-looking generation.
+
+[Showcase](https://github.com/charli-dev420/presentation-projet-3d-unity) · [Source facts](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/source-facts.md) · [Demo scenarios](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/demo-scenarios.md) · [Visual index](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/visual-index.md)
+
+#### Agentic Orchestration
+
+<p align="center">
+  <a href="https://github.com/charli-dev420/presentation-projet-agentic">
+    <img src="https://raw.githubusercontent.com/charli-dev420/presentation-projet-agentic/main/assets/one-pager.svg" width="520" alt="Agentic orchestration one-pager">
+  </a>
+</p>
+
+The agentic work is about control, not magic: multi-agent coordination, MCP/App SDK surfaces, evidence ledgers, QA gates, and Unity/ComfyUI workflows that keep human decisions visible. I am interested in agents that leave a trail someone can evaluate, correct, and trust.
+
+[Showcase](https://github.com/charli-dev420/presentation-projet-agentic) · [Evidence ledger](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/evidence-ledger.md) · [QA matrix](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/qa-matrix.md) · [Visual gallery](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/visual-gallery.md)
 
 ### What I am looking for
 
@@ -115,11 +92,17 @@ Je cherche a construire des projets qui se comprennent vite mais ne restent pas 
 
 ### Lecture rapide des projets
 
-| Axe | Role | Documentation utile |
-| --- | --- | --- |
-| **DAW Core / Unicor SoundEngine** | Projet principal: workstation audio locale-first, format `.dw`, desktop/Android, synthés, FX, distribution. | [Vitrine](https://github.com/charli-dev420/presentation-projet-music) · [One-pager](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/one-pager.md) · [Release readiness](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/release-readiness.md) |
-| **3D / Unity** | Revue dataset, assets IA, Splat Facade Baker, CodexToUnity, Mob'ia / ccomf-unity, LocalAssetFactory. | [Vitrine](https://github.com/charli-dev420/presentation-projet-3d-unity) · [Faits sources](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/source-facts.md) · [Scenarios demo](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/demo-scenarios.md) |
-| **Agentic** | Orchestration multi-agents, MCP, Apps SDK, registres de preuve, QA et workflows Unity/ComfyUI. | [Vitrine](https://github.com/charli-dev420/presentation-projet-agentic) · [Evidence ledger](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/evidence-ledger.md) · [QA matrix](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/qa-matrix.md) |
+**DAW Core / Unicor SoundEngine** est le projet principal: une workstation audio locale-first, un format `.dw`, des surfaces desktop/Android, des synthés, des FX et une logique de distribution. Ce qui m'interesse ici, c'est de garder un produit musical concret: composer, sauvegarder, rouvrir, transporter, verifier.
+
+[Vitrine](https://github.com/charli-dev420/presentation-projet-music) · [One-pager](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/one-pager.md) · [Release readiness](https://github.com/charli-dev420/presentation-projet-music/blob/main/docs/release-readiness.md)
+
+**3D / Unity** regroupe la revue dataset, les assets IA, Splat Facade Baker, CodexToUnity, Mob'ia / ccomf-unity et LocalAssetFactory. L'idee est de sortir du simple rendu pour aller vers un asset que l'on peut comprendre, corriger, documenter et utiliser dans Unity.
+
+[Vitrine](https://github.com/charli-dev420/presentation-projet-3d-unity) · [Faits sources](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/source-facts.md) · [Scenarios demo](https://github.com/charli-dev420/presentation-projet-3d-unity/blob/main/docs/demo-scenarios.md)
+
+**Agentic** couvre l'orchestration multi-agents, MCP, Apps SDK, les registres de preuve, la QA et les workflows Unity/ComfyUI. Je veux des agents qui produisent quelque chose de suivable: une action, une preuve, une limite claire, puis une decision humaine.
+
+[Vitrine](https://github.com/charli-dev420/presentation-projet-agentic) · [Evidence ledger](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/evidence-ledger.md) · [QA matrix](https://github.com/charli-dev420/presentation-projet-agentic/blob/main/docs/qa-matrix.md)
 
 ### Ce que je recherche
 
