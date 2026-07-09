@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/charli-dev420/presentation-projet-music">Music-tech</a> ·
   <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">3D / Unity</a> ·
-  <a href="https://github.com/charli-dev420/presentation-projet-agentic">AI workflows</a>
+  <a href="https://github.com/charli-dev420/presentation-projet-agentic">Agentic / LLM workflows</a>
 </p>
 
 ---
@@ -26,12 +26,12 @@ The core project is **DAWWW-CORE**, a local-first web DAW built around a simple 
 
 > a music project should be easy to create, save, reopen, test, export, and continue.
 
-Alongside it, I build **Unicorn Sound Engine**, a separate ecosystem of VST instruments, effects, manuals, audition tools, and distribution surfaces.
+Alongside it, I build **UnicorSoundEngine**, a separate ecosystem of VST instruments, effects, manuals, audition tools, and distribution surfaces.
 
-DAWWW-CORE and Unicorn Sound Engine belong to the same music-tech direction, but they are separate product lines.  
+DAWWW-CORE and UnicorSoundEngine belong to the same music-tech direction, but they are separate product lines.  
 **DAWWW-CORE is a browser DAW. It does not load native VST plugins in the browser.**
 
-Most of the source code is private. The public repositories are here to present the projects, document the product direction, and show enough context for collaborators, testers, buyers, recruiters, or technical partners to understand the work.
+Most of the source code is private. The public repositories are here to present the projects, document the product direction, and give enough context for collaborators, testers, recruiters, technical partners or serious reviewers to understand the work.
 
 ---
 
@@ -40,9 +40,9 @@ Most of the source code is private. The public repositories are here to present 
 | Area | What it covers |
 | --- | --- |
 | **DAWWW-CORE** | Local-first browser DAW, Web Audio, `.dw` projects, export, desktop and Android workflows |
-| **Unicorn Sound Engine** | VST instruments, effects, manuals, audition tools, store and download flow |
+| **UnicorSoundEngine** | VST instruments, effects, manuals, audition tools, store and download flow |
 | **3D / Unity pipelines** | Dataset review, 2.5D asset preparation, splat/facade workflows, Unity handoff |
-| **AI workflow tools** | Codex-oriented workflows, MCP-style tooling, proof logs, human-in-the-loop review |
+| **Agentic / LLM workflows** | LLM-centered tools, controlled actions, readable runs, human review and creative automation |
 
 ---
 
@@ -58,7 +58,7 @@ A public overview of my music software work:
 - `.dw` project continuity
 - Web Audio and export workflows
 - Android testing direction
-- Unicorn Sound Engine as a separate VST / plugin ecosystem
+- UnicorSoundEngine as a separate VST / plugin ecosystem
 - manuals, audition material, FX and distribution notes
 
 ### 3D / Unity pipeline
@@ -74,18 +74,18 @@ A public overview of my asset pipeline work:
 - Dataset ReviewEval
 - CodexToUnity and related pipeline tools
 
-### AI workflow tooling
+### Agentic / LLM workflows
 
 [`presentation-projet-agentic`](https://github.com/charli-dev420/presentation-projet-agentic)
 
-A public overview of my agentic / AI workflow work:
+A public overview of my projects where a language model has a central role:
 
-- readable AI runs
-- task scope and tool routing
-- proof-oriented automation
-- validation checklists
-- human decision points
-- Codex / Unity / creative pipeline workflows
+- LLM-centered workflows
+- controlled tool actions
+- task scope and routing
+- readable outputs
+- human review and decision points
+- Unity, asset, music and image workflows seen from the LLM layer
 
 ---
 
@@ -97,7 +97,7 @@ A public overview of my agentic / AI workflow work:
 - Audio export, project save/reopen, QA and diagnostics
 - VST product distribution and store/download flows
 - Unity and asset pipeline documentation
-- Codex / AI workflow structuring
+- LLM workflow structuring and human-in-the-loop review
 - Technical writing and release-readiness cleanup
 
 ---
@@ -118,10 +118,10 @@ I am strongest on scoped creative-tool work where the goal is concrete:
 
 ## Français
 
-Je construis des outils créatifs orientés produit : DAW navigateur, Web Audio, plugins audio séparés, pipelines 3D/Unity, outils de revue dataset et workflows IA contrôlables.
+Je construis des outils créatifs orientés produit : DAW navigateur, Web Audio, plugins audio séparés, pipelines 3D/Unity, outils de revue dataset et workflows LLM contrôlables.
 
 Mon projet principal est **DAWWW-CORE** : un DAW web local-first basé sur Web Audio, le format projet `.dw`, l’export audio, la stabilité, la QA et une cible Android.
 
-**Unicorn Sound Engine** est une ligne séparée : instruments et effets VST, manuels, audition, distribution, store et téléchargements.
+**UnicorSoundEngine** est une ligne séparée : instruments et effets VST, manuels, audition, distribution, store et téléchargements.
 
 Les dépôts publics servent de vitrines et de dossiers de compréhension. Les sources principales, assets, binaires, preuves sensibles et projets en cours peuvent rester privés.
