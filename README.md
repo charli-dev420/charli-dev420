@@ -9,119 +9,149 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/charli-dev420/presentation-projet-music">Music-tech</a> ·
-  <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">3D / Unity</a> ·
-  <a href="https://github.com/charli-dev420/presentation-projet-agentic">Agentic / LLM workflows</a>
+  <a href="https://github.com/charli-dev420/presentation-projet-music">Music & MAO</a> ·
+  <a href="https://github.com/charli-dev420/presentation-projet-agentic">Agentic / LLM</a> ·
+  <a href="https://github.com/charli-dev420/presentation-projet-3d-unity">3D / Unity</a>
+</p>
+
+<p align="center">
+  <a href="#english">🇬🇧 English</a> · <a href="#francais">🇫🇷 Français</a>
 </p>
 
 ---
 
-## About
+<h2 id="english">🇬🇧 English</h2>
 
-I build creative software with a product-first mindset.
+I build creative software, with **music technology as my main direction**.
 
-My main work is focused on **music technology**: browser-based audio tools, Web Audio workflows, project persistence, export systems, plugin distribution, QA, and practical release preparation.
+My work combines product development, Web Audio, local-first project workflows, audio software, LLM-assisted tools and asset pipelines. I focus on projects where a complex technical system becomes understandable, testable and usable through a clear product workflow.
 
-The core project is **DAWWW-CORE**, a local-first web DAW built around a simple but demanding idea:
+## Start here
 
-> a music project should be easy to create, save, reopen, test, export, and continue.
+| Area | What it shows | Entry point |
+| --- | --- | --- |
+| **Music & MAO** | Browser DAW, Web Audio, `.dw` projects, export, VST products, QA and distribution | [`presentation-projet-music`](https://github.com/charli-dev420/presentation-projet-music) |
+| **Agentic / LLM** | Tool-using workflows, orchestration, Unity agents, image editing, preset generation and human review | [`presentation-projet-agentic`](https://github.com/charli-dev420/presentation-projet-agentic) |
+| **3D / Unity** | Dataset review, splat / multiview processing, asset preparation and Unity handoff | [`presentation-projet-3d-unity`](https://github.com/charli-dev420/presentation-projet-3d-unity) |
 
-Alongside it, I build **UnicorSoundEngine**, a separate ecosystem of VST instruments, effects, manuals, audition tools, and distribution surfaces.
+## Main project lines
 
-DAWWW-CORE and UnicorSoundEngine belong to the same music-tech direction, but they are separate product lines.  
-**DAWWW-CORE is a browser DAW. It does not load native VST plugins in the browser.**
+### DAWWW-CORE
 
-Most of the source code is private. The public repositories are here to present the projects, document the product direction, and give enough context for collaborators, testers, recruiters, technical partners or serious reviewers to understand the work.
+A local-first browser DAW built around a practical project loop:
 
----
+```text
+create → save → reopen → edit → export → continue
+```
 
-## Main lines of work
+The project covers Web Audio, playback, editing, portable `.dw` sessions, export, recovery, QA, desktop workflows and an Android target through Capacitor.
 
-| Area | What it covers |
-| --- | --- |
-| **DAWWW-CORE** | Local-first browser DAW, Web Audio, `.dw` projects, export, desktop and Android workflows |
-| **UnicorSoundEngine** | VST instruments, effects, manuals, audition tools, store and download flow |
-| **3D / Unity pipelines** | Dataset review, 2.5D asset preparation, splat/facade workflows, Unity handoff |
-| **Agentic / LLM workflows** | LLM-centered tools, controlled actions, readable runs, human review and creative automation |
+### UnicorSoundEngine
 
----
+A separate native plugin ecosystem for instruments and effects, with presets, manuals, audition material, packaging, product pages and download flows.
 
-## Public project dossiers
+**DAWWW-CORE is a browser DAW and does not load native VST plugins in the browser.** UnicorSoundEngine is the separate plugin product line developed within the Unicorn Who Dev portfolio.
 
-### Music-tech
+### LLM-assisted tools
 
-[`presentation-projet-music`](https://github.com/charli-dev420/presentation-projet-music)
+Projects where a language model has an active role in the workflow: planning, tool calls, inspection, editing, evaluation, summaries and human decisions.
 
-A public overview of my music software work:
+### 3D / Unity pipelines
 
-- DAWWW-CORE as the main browser DAW project
-- `.dw` project continuity
-- Web Audio and export workflows
-- Android testing direction
-- UnicorSoundEngine as a separate VST / plugin ecosystem
-- manuals, audition material, FX and distribution notes
-
-### 3D / Unity pipeline
-
-[`presentation-projet-3d-unity`](https://github.com/charli-dev420/presentation-projet-3d-unity)
-
-A public overview of my asset pipeline work:
-
-- dataset review and source selection
-- 2.5D / facade-oriented asset preparation
-- Unity handoff
-- Splat Facade Baker
-- Dataset ReviewEval
-- CodexToUnity and related pipeline tools
-
-### Agentic / LLM workflows
-
-[`presentation-projet-agentic`](https://github.com/charli-dev420/presentation-projet-agentic)
-
-A public overview of my projects where a language model has a central role:
-
-- LLM-centered workflows
-- controlled tool actions
-- task scope and routing
-- readable outputs
-- human review and decision points
-- Unity, asset, music and image workflows seen from the LLM layer
-
----
+Tools that help turn datasets, generated candidates or multiview material into assets that can be inspected, corrected, packaged and reviewed before Unity integration.
 
 ## Technical focus
 
-- Web Audio and browser-based music tools
-- React, Vite, Next.js, TypeScript
-- Local-first project workflows
-- Audio export, project save/reopen, QA and diagnostics
-- VST product distribution and store/download flows
-- Unity and asset pipeline documentation
-- LLM workflow structuring and human-in-the-loop review
-- Technical writing and release-readiness cleanup
+- Web Audio and browser-based music software
+- React, TypeScript, Vite and Next.js product development
+- Local-first project formats, save / reopen / recovery and export
+- VST product packaging and distribution workflows
+- LLM tool orchestration and human-in-the-loop review
+- Unity, ComfyUI, dataset review and generated-asset pipelines
+- QA, debugging, release preparation and technical documentation
+
+## Good fit
+
+I am most useful on scoped product work involving creative tools, music software, workflow debugging, QA, front-end cleanup, technical documentation or LLM-assisted production systems.
+
+Typical areas include:
+
+- stabilizing an audio or browser workflow;
+- reviewing save, reopen, recovery or export behavior;
+- improving a technical product flow or public presentation;
+- structuring an asset, dataset or generated-content review pipeline;
+- preparing documentation and release material that another person can actually use.
+
+## Contact
+
+- General: [unicornwhodev@gmail.com](mailto:unicornwhodev@gmail.com)
+- DAWWW-CORE: [contact@dawww-core-local.com](mailto:contact@dawww-core-local.com)
 
 ---
 
-## What I am useful for
+<h2 id="francais">🇫🇷 Français</h2>
 
-I am strongest on scoped creative-tool work where the goal is concrete:
+Je construis des logiciels créatifs, avec la **music-tech comme axe principal**.
 
-- stabilize an audio or web workflow
-- review a product flow
-- clean up a technical README or public presentation
-- test project save/export/reopen behavior
-- structure a dataset or asset review pipeline
-- document a plugin, tool, or release path
-- turn an experimental workflow into something easier to inspect and hand over
+Mon travail réunit développement produit, Web Audio, workflows local-first, logiciels audio, outils assistés par LLM et pipelines d’assets. Je m’intéresse surtout aux projets où un système technique complexe devient compréhensible, testable et utilisable grâce à un workflow produit clair.
 
----
+## Commencer ici
 
-## Français
+| Domaine | Ce que la vitrine présente | Point d’entrée |
+| --- | --- | --- |
+| **Musique & MAO** | DAW navigateur, Web Audio, projets `.dw`, export, produits VST, QA et distribution | [`presentation-projet-music`](https://github.com/charli-dev420/presentation-projet-music) |
+| **Agentic / LLM** | Workflows avec outils, orchestration, agents Unity, édition d’image, génération de presets et revue humaine | [`presentation-projet-agentic`](https://github.com/charli-dev420/presentation-projet-agentic) |
+| **3D / Unity** | Revue de datasets, traitement splat / multiview, préparation d’assets et handoff Unity | [`presentation-projet-3d-unity`](https://github.com/charli-dev420/presentation-projet-3d-unity) |
 
-Je construis des outils créatifs orientés produit : DAW navigateur, Web Audio, plugins audio séparés, pipelines 3D/Unity, outils de revue dataset et workflows LLM contrôlables.
+## Principales lignes projet
 
-Mon projet principal est **DAWWW-CORE** : un DAW web local-first basé sur Web Audio, le format projet `.dw`, l’export audio, la stabilité, la QA et une cible Android.
+### DAWWW-CORE
 
-**UnicorSoundEngine** est une ligne séparée : instruments et effets VST, manuels, audition, distribution, store et téléchargements.
+Un DAW navigateur local-first construit autour d’une boucle projet concrète :
 
-Les dépôts publics servent de vitrines et de dossiers de compréhension. Les sources principales, assets, binaires, preuves sensibles et projets en cours peuvent rester privés.
+```text
+créer → sauvegarder → rouvrir → modifier → exporter → continuer
+```
+
+Le projet couvre Web Audio, playback, édition, sessions portables `.dw`, export, récupération, QA, workflows desktop et une cible Android via Capacitor.
+
+### UnicorSoundEngine
+
+Un écosystème séparé de plugins natifs, instruments et effets, accompagné de presets, manuels, contenus d’audition, packaging, pages produit et téléchargements.
+
+**DAWWW-CORE est un DAW navigateur et ne charge pas de VST natifs dans le navigateur.** UnicorSoundEngine est la ligne plugin séparée développée dans le portfolio Unicorn Who Dev.
+
+### Outils assistés par LLM
+
+Des projets où le modèle de langage occupe un rôle actif : planification, appels d’outils, inspection, édition, évaluation, synthèse et préparation des décisions humaines.
+
+### Pipelines 3D / Unity
+
+Des outils destinés à transformer datasets, candidats générés ou matière multiview en assets inspectables, corrigeables, packagés et reviewables avant intégration Unity.
+
+## Axes techniques
+
+- Web Audio et logiciels musicaux dans le navigateur
+- Développement produit avec React, TypeScript, Vite et Next.js
+- Formats projet local-first, sauvegarde, réouverture, récupération et export
+- Packaging et distribution de produits VST
+- Orchestration d’outils LLM et revue humaine
+- Unity, ComfyUI, revue de datasets et pipelines d’assets générés
+- QA, débogage, préparation release et documentation technique
+
+## Missions adaptées
+
+Je suis surtout utile sur des tâches produit cadrées autour des outils créatifs, logiciels musicaux, workflows à stabiliser, QA, nettoyage front-end, documentation technique ou systèmes de production assistés par LLM.
+
+Cela peut notamment concerner :
+
+- la stabilisation d’un workflow audio ou navigateur ;
+- la vérification des mécanismes de sauvegarde, réouverture, récupération ou export ;
+- l’amélioration d’un parcours produit ou d’une présentation publique ;
+- la structuration d’un pipeline de revue d’assets, de datasets ou de contenu généré ;
+- la préparation d’une documentation et d’une matière de release réellement utilisables.
+
+## Contact
+
+- Général : [unicornwhodev@gmail.com](mailto:unicornwhodev@gmail.com)
+- DAWWW-CORE : [contact@dawww-core-local.com](mailto:contact@dawww-core-local.com)
