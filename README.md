@@ -2,22 +2,34 @@
 
 **Developer · Creative technologist · Builder**
 
-I build ambitious products at the intersection of **web, audio, AI, 3D and interactive experiences**.
+I build software at the intersection of **web, audio, local AI, 3D and interactive experiences**.
 
-## Currently building
+## What I work on
 
-- 🎵 **DAWWW-CORE** — a browser-first digital audio workstation
-- 🔥 **FireViewer** — tools and datasets for wildfire documentation and scientific analysis
-- 🎮 **Experimental games** — character generation, procedural assets and lightweight game experiences
-- 🧠 **AI pipelines** — computer vision, multimodal datasets and local inference workflows
+### Private products
+
+- 🎵 **DAWWW-CORE** — browser-first digital audio workstation with local-first project workflows.
+- 🎛️ **Unicorn Sound Engine / UWdeVST** — native audio instruments, effects and supporting tools.
+- 🎮 **Make My Game** — character creation and generation pipeline connected to several mobile mini-games.
+- 🎮 **Save My Lord** — action-platformer project for desktop/mobile production workflows.
+
+Commercial product sources are kept in private repositories on this account.
+
+### Public & reusable tools
+
+My reusable developer tools and experiments live under **[Unicorn Who Dev](https://github.com/unicorn-who-dev)**, including local AI, 3D/Unity and Codex-oriented workflows.
+
+### Open research / FireViewer
+
+🔥 **[FireViewer](https://github.com/fireviewer)** is maintained separately as an open-source project around wildfire observations, provenance, datasets, computer vision and spatial reconstruction.
+
+Hugging Face: **[fireviewer](https://huggingface.co/fireviewer)**
 
 ## Main stack
 
-`TypeScript` · `React` · `Python` · `Web Audio` · `Supabase` · `AI / CV` · `3D`
+`TypeScript` · `React` · `Python` · `C++` · `Web Audio` · `Unity` · `Supabase` · `AI / CV` · `3D`
 
-I like turning complex ideas into **working, testable products**.
-
-↓ Explore my pinned projects.
+I prefer projects that can be **built, tested and demonstrated**, with explicit limits rather than vague claims.
 
 ---
 
@@ -25,19 +37,31 @@ I like turning complex ideas into **working, testable products**.
 
 **Développeur · Technologue créatif · Builder**
 
-Je développe des produits ambitieux à la croisée du **web, de l'audio, de l'IA, de la 3D et des expériences interactives**.
+Je développe des logiciels à la croisée du **web, de l'audio, de l'IA locale, de la 3D et des expériences interactives**.
 
-## Projets actuels
+## Mes principaux axes de travail
 
-- 🎵 **DAWWW-CORE** — une station audionumérique pensée pour le navigateur
-- 🔥 **FireViewer** — outils et datasets pour la documentation et l'analyse scientifique des incendies
-- 🎮 **Jeux expérimentaux** — génération de personnages, assets procéduraux et expériences de jeu légères
-- 🧠 **Pipelines IA** — vision par ordinateur, datasets multimodaux et workflows d'inférence locale
+### Produits privés
+
+- 🎵 **DAWWW-CORE** — station audionumérique browser-first avec des workflows de projet local-first.
+- 🎛️ **Unicorn Sound Engine / UWdeVST** — instruments, effets audio natifs et outils associés.
+- 🎮 **Make My Game** — création de personnages et pipeline de génération relié à plusieurs mini-jeux mobiles.
+- 🎮 **Save My Lord** — projet d'action-platformer et chaîne de production desktop/mobile.
+
+Les sources des produits à vocation commerciale restent dans des dépôts privés de ce compte.
+
+### Outils publics et réutilisables
+
+Mes outils de développement et expérimentations réutilisables sont regroupés sous **[Unicorn Who Dev](https://github.com/unicorn-who-dev)** : IA locale, 3D/Unity et workflows orientés Codex.
+
+### Recherche ouverte / FireViewer
+
+🔥 **[FireViewer](https://github.com/fireviewer)** est maintenu séparément comme projet open source autour des observations d'incendies, de la provenance, des datasets, de la vision par ordinateur et de la reconstruction spatiale.
+
+Hugging Face : **[fireviewer](https://huggingface.co/fireviewer)**
 
 ## Stack principale
 
-`TypeScript` · `React` · `Python` · `Web Audio` · `Supabase` · `IA / CV` · `3D`
+`TypeScript` · `React` · `Python` · `C++` · `Web Audio` · `Unity` · `Supabase` · `IA / CV` · `3D`
 
-J'aime transformer des idées complexes en **produits fonctionnels et testables**.
-
-↓ Découvre mes projets épinglés.
+Je privilégie les projets qui peuvent être **construits, testés et démontrés**, avec des limites explicites plutôt que des promesses vagues.
