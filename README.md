@@ -1,4 +1,4 @@
-# Charl — développement produit et technologies créatives
+# unicorn who dev  — développement produit et technologies créatives
 
 Je conçois et développe des logiciels à la croisée de l’audio, du web, de l’intelligence artificielle locale, de la 3D et des expériences interactives.
 
