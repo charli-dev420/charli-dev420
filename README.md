@@ -41,15 +41,6 @@ Les dépôts de l’organisation couvrent notamment les outils pour développeur
 
 FireViewer est un projet de recherche et développement. Il ne remplace ni les sources officielles, ni les services d’alerte, ni les consignes des autorités et des services d’urgence.
 
-## Manière de travailler
-
-- définir le rôle et les limites d’un projet avant de présenter ses résultats ;
-- séparer les démonstrateurs, les expérimentations et les composants destinés à un usage plus stable ;
-- conserver la provenance des données, des modèles et des ressources externes ;
-- automatiser les contrôles qui peuvent l’être, tout en gardant une validation humaine lorsque le contexte l’exige ;
-- documenter les décisions importantes afin que le projet reste compréhensible et maintenable dans le temps ;
-- construire des interfaces accessibles aux personnes qui utilisent réellement les outils, sans leur demander de connaître toute leur architecture interne.
-
 ## Technologies
 
 `TypeScript` · `React` · `Python` · `C++` · `Web Audio` · `Unity` · `OpenUSD` · `NVIDIA Omniverse` · `Supabase` · `Computer Vision` · `Local AI`
