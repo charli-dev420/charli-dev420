@@ -8,9 +8,7 @@ Mon travail est réuni sous la bannière **[Unicorn Who Dev](https://github.com/
 
 Je m’intéresse aux projets qui demandent de relier plusieurs disciplines : concevoir une interface compréhensible, structurer une architecture durable, intégrer des traitements natifs ou des modèles d’IA, puis transformer l’ensemble en un outil cohérent.
 
-Cette approche m’amène à travailler aussi bien sur des applications web que sur des moteurs audio, des outils créatifs, des pipelines de génération, des environnements Unity ou OpenUSD et des systèmes de traitement de données visuelles.
-
-Je développe avec une attention particulière portée à la documentation, à la traçabilité, à la sécurité des données et à l’explication honnête des limites techniques. Les prototypes, produits, recherches et démonstrateurs n’ont pas tous le même niveau de maturité ; leur documentation doit permettre de comprendre clairement leur rôle et leur état.
+ Les prototypes, produits, recherches et démonstrateurs n’ont pas tous le même niveau de maturité
 
 ## Domaines de travail
 
