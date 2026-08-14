@@ -1,67 +1,76 @@
-# Hi, I'm Charl 👋
+# Charl — développement produit et technologies créatives
 
-**Developer · Creative technologist · Builder**
+Je conçois et développe des logiciels à la croisée de l’audio, du web, de l’intelligence artificielle locale, de la 3D et des expériences interactives.
 
-I build software at the intersection of **web, audio, local AI, 3D and interactive experiences**.
+Mon travail est réuni sous la bannière **[Unicorn Who Dev](https://github.com/unicorn-who-dev)**, qui porte mes outils, mes produits et mes expérimentations techniques. **[FireViewer](https://github.com/fireviewer)** reste un projet de recherche et développement distinct, maintenu par Unicorn Who Dev.
 
-## What I work on
+## À propos
 
-### Private products
+Je m’intéresse aux projets qui demandent de relier plusieurs disciplines : concevoir une interface compréhensible, structurer une architecture durable, intégrer des traitements natifs ou des modèles d’IA, puis transformer l’ensemble en un outil cohérent.
 
-- 🎵 **DAWWW-CORE** — browser-first digital audio workstation with local-first project workflows.
-- 🎛️ **Unicorn Sound Engine / UWdeVST** — native audio instruments, effects and supporting tools.
-- 🎮 **Make My Game** — character creation and generation pipeline connected to several mobile mini-games.
-- 🎮 **Save My Lord** — action-platformer project for desktop/mobile production workflows.
+Cette approche m’amène à travailler aussi bien sur des applications web que sur des moteurs audio, des outils créatifs, des pipelines de génération, des environnements Unity ou OpenUSD et des systèmes de traitement de données visuelles.
 
-Commercial product sources are kept in private repositories on this account.
+Je développe avec une attention particulière portée à la documentation, à la traçabilité, à la sécurité des données et à l’explication honnête des limites techniques. Les prototypes, produits, recherches et démonstrateurs n’ont pas tous le même niveau de maturité ; leur documentation doit permettre de comprendre clairement leur rôle et leur état.
 
-### Public & reusable tools
+## Domaines de travail
 
-My reusable developer tools and experiments live under **[Unicorn Who Dev](https://github.com/unicorn-who-dev)**, including local AI, 3D/Unity and Codex-oriented workflows.
+| Domaine | Travaux et projets associés |
+| --- | --- |
+| Audio et création musicale | **DAWWW-CORE**, station audionumérique orientée navigateur et workflows locaux ; **Unicor Sound Engine / UWdeVST**, instruments, effets et technologies audio natives. |
+| Jeux et expériences interactives | **Make My Game**, création de personnages et chaînes de génération pour plusieurs expériences mobiles ; **Save My Lord**, projet d’action-platformer et environnement de production associé. |
+| Intelligence artificielle locale | Outils d’assistance créative, vision par ordinateur, orchestration de modèles et workflows conçus pour fonctionner avec des ressources locales ou maîtrisées. |
+| 3D et simulation | Unity, OpenUSD, Omniverse, reconstruction, préparation d’assets et automatisation de pipelines visuels. |
+| Applications et outils web | Interfaces React et TypeScript, services Python, intégrations natives, outils de documentation et expériences centrées sur les créateurs. |
 
-### Open research / FireViewer
+## Unicorn Who Dev
 
-🔥 **[FireViewer](https://github.com/fireviewer)** is maintained separately as an open-source project around wildfire observations, provenance, datasets, computer vision and spatial reconstruction.
+**Unicorn Who Dev** est l’identité principale sous laquelle je rassemble mes projets techniques et créatifs. L’objectif est de construire un ensemble cohérent d’outils et de produits, avec une documentation claire et une identité commune, tout en respectant la nature propre de chaque projet.
 
-Hugging Face: **[fireviewer](https://huggingface.co/fireviewer)**
+- Site : [unicornwhodev.com](https://unicornwhodev.com)
+- Organisation GitHub : [github.com/unicorn-who-dev](https://github.com/unicorn-who-dev)
+- Contact : [unicornwhodev@gmail.com](mailto:unicornwhodev@gmail.com)
 
-## Main stack
+Les dépôts de l’organisation couvrent notamment les outils pour développeurs, l’IA locale, les workflows Codex, la 3D, Unity et la création visuelle. Chaque dépôt conserve ses propres objectifs, conditions d’utilisation et indications de maturité.
 
-`TypeScript` · `React` · `Python` · `C++` · `Web Audio` · `Unity` · `Supabase` · `AI / CV` · `3D`
+## FireViewer
 
-I prefer projects that can be **built, tested and demonstrated**, with explicit limits rather than vague claims.
+**FireViewer** est une initiative distincte consacrée à la documentation et à l’analyse visuelle des incendies : provenance des observations, chronologies, vision par ordinateur, données géospatiales, reconstruction et simulation.
+
+- GitHub : [github.com/fireviewer](https://github.com/fireviewer)
+- Modèles et datasets : [huggingface.co/fireviewer](https://huggingface.co/fireviewer)
+
+FireViewer est un projet de recherche et développement. Il ne remplace ni les sources officielles, ni les services d’alerte, ni les consignes des autorités et des services d’urgence.
+
+## Manière de travailler
+
+- définir le rôle et les limites d’un projet avant de présenter ses résultats ;
+- séparer les démonstrateurs, les expérimentations et les composants destinés à un usage plus stable ;
+- conserver la provenance des données, des modèles et des ressources externes ;
+- automatiser les contrôles qui peuvent l’être, tout en gardant une validation humaine lorsque le contexte l’exige ;
+- documenter les décisions importantes afin que le projet reste compréhensible et maintenable dans le temps ;
+- construire des interfaces accessibles aux personnes qui utilisent réellement les outils, sans leur demander de connaître toute leur architecture interne.
+
+## Technologies
+
+`TypeScript` · `React` · `Python` · `C++` · `Web Audio` · `Unity` · `OpenUSD` · `NVIDIA Omniverse` · `Supabase` · `Computer Vision` · `Local AI`
+
+## Échanges et collaborations
+
+Je suis ouvert aux échanges avec les développeurs, artistes, designers, chercheurs et créateurs qui travaillent autour de l’audio, des outils interactifs, de l’IA locale, de la 3D ou de la visualisation de données.
+
+Pour une question sur un projet, une attribution, des droits, une collaboration ou une demande de retrait : **[unicornwhodev@gmail.com](mailto:unicornwhodev@gmail.com)**.
 
 ---
 
-# Bonjour, moi c'est Charl 👋
+## English overview
 
-**Développeur · Technologue créatif · Builder**
+I design and develop software across audio, web technologies, local AI, 3D and interactive experiences.
 
-Je développe des logiciels à la croisée du **web, de l'audio, de l'IA locale, de la 3D et des expériences interactives**.
+My projects are brought together under **[Unicorn Who Dev](https://github.com/unicorn-who-dev)**. They include music-production software, native audio technology, creative tools, game-development workflows, local-AI experiments and 3D pipelines.
 
-## Mes principaux axes de travail
+**[FireViewer](https://github.com/fireviewer)** is a separate research and development initiative maintained by Unicorn Who Dev. It focuses on wildfire observation provenance, timelines, computer vision, spatial data, reconstruction and simulation. FireViewer is not an emergency alert service or an official operational source.
 
-### Produits privés
+I value clear documentation, traceable technical decisions, responsible use of data and a precise explanation of each project’s scope and maturity.
 
-- 🎵 **DAWWW-CORE** — station audionumérique browser-first avec des workflows de projet local-first.
-- 🎛️ **Unicorn Sound Engine / UWdeVST** — instruments, effets audio natifs et outils associés.
-- 🎮 **Make My Game** — création de personnages et pipeline de génération relié à plusieurs mini-jeux mobiles.
-- 🎮 **Save My Lord** — projet d'action-platformer et chaîne de production desktop/mobile.
+Contact: **[unicornwhodev@gmail.com](mailto:unicornwhodev@gmail.com)**.
 
-Les sources des produits à vocation commerciale restent dans des dépôts privés de ce compte.
-
-### Outils publics et réutilisables
-
-Mes outils de développement et expérimentations réutilisables sont regroupés sous **[Unicorn Who Dev](https://github.com/unicorn-who-dev)** : IA locale, 3D/Unity et workflows orientés Codex.
-
-### Recherche ouverte / FireViewer
-
-🔥 **[FireViewer](https://github.com/fireviewer)** est maintenu séparément comme projet open source autour des observations d'incendies, de la provenance, des datasets, de la vision par ordinateur et de la reconstruction spatiale.
-
-Hugging Face : **[fireviewer](https://huggingface.co/fireviewer)**
-
-## Stack principale
-
-`TypeScript` · `React` · `Python` · `C++` · `Web Audio` · `Unity` · `Supabase` · `IA / CV` · `3D`
-
-Je privilégie les projets qui peuvent être **construits, testés et démontrés**, avec des limites explicites plutôt que des promesses vagues.
